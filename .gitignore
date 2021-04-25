@@ -1,5 +1,36 @@
 
 ../.idea/*
+.idea/
+/home/j3nnn1/itba/deepLCourse/lab-pep/20210328_BayesDiscretoClasificadorTexto/3\ -\ TdB\ -\ Interpretación\ 2.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/2\ -\ TdB\ -\ Interpretaci\303\263n\ 1.ipynb
+lab-pep/20210319_introEntropy/02-variable_aleatoria_uniforme.ipynb
+lab-pep/20210319_introEntropy/03-variable-aleatoria-categorica.ipynb
+lab-pep/20210319_introEntropy/04-entropia_cruzada.ipynb
+lab-pep/20210319_introEntropy/06-pesos_alturas_conjunta.ipynb
+lab-pep/20210319_introEntropy/07-Condicionales.ipynb
+lab-pep/20210319_introEntropy/08-Independencia_Momentos_Covarianza.ipynb
+lab-pep/20210319_introEntropy/09-variable-aleatoria-continua.ipynb
+lab-pep/20210319_introEntropy/10-Gaussiana-multivariable.ipynb
+lab-pep/20210319_introEntropy/11-Pesos-Alturas-Gaussiana.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/0 - Planteamiento de un problema.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/1 - Teorema de Bayes.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/12 - SPAM HAM Naive Bayes.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/12-GMM.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/13 - TNG - Naive-Bayes.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/13-test-gauss.ipynb
+"lab-pep/20210328_BayesDiscretoClasificadorTexto/2 - TdB - Interpretaci\303\263n 1.ipynb"
+"lab-pep/20210328_BayesDiscretoClasificadorTexto/3 - TdB - Interpretaci\303\263n 2.ipynb"
+lab-pep/20210328_BayesDiscretoClasificadorTexto/4 - Clasific-Bayes-histograma.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/5 - Clasific-Naive-Bayes-histograma.ipynb
+lab-pep/20210328_BayesDiscretoClasificadorTexto/BiVariateJoint.py
+lab-pep/20210328_BayesDiscretoClasificadorTexto/alturas-pesos-1-train.csv
+lab-pep/20210328_BayesDiscretoClasificadorTexto/art_filt.txt
+lab-pep/20210328_BayesDiscretoClasificadorTexto/venn.png
+lab-pep/20210420_BayesContinuo/6 - Clasific-Bayes-Gaussiano.ipynb
+lab-pep/20210420_BayesContinuo/7 - Clasific-Naive-Bayes-Gaussiano.ipynb
+lab-pep/20210420_BayesContinuo/Lab4_Gaussian_Bayes_class.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
