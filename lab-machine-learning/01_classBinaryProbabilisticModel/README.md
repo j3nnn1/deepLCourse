@@ -2,8 +2,6 @@
 
 https://dl-itba.croma.ai/courses/course-v1:itba-deeplearning+labmach+2021-T1
 
-
-
 ## Probabilisticos
 Bayes, NaiveBayes, Redes Neuronales, Regresion Logística, LDA, QDA
 
@@ -74,3 +72,9 @@ baja el score de 0.8 a 0.76
 
 # Regresion Polinomial.
 ## Feature engineer.
+
+# Google Colab Modelos Probabilisticos
+https://colab.research.google.com/github/deeplearning-itba/Clase_1-Pesos-y-Alturas-Bayes/blob/master/6-Clasific-Regresion-Logistica-colab.ipynb#scrollTo=d1YBMb-hwmea
+
+# Google Colab Knn
+https://colab.research.google.com/github/deeplearning-itba/Clase_1-Pesos-y-Alturas-Bayes/blob/master/10-Clasific-KNN-colab.ipynb
