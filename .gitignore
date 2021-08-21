@@ -1,4 +1,4 @@
-
+./lab-machine-learning/06_ClasificacionMulticlase/Regresion-Logistica/*
 ../.idea/*
 .idea/
 lab-pep/20210328_BayesDiscretoClasificadorTexto/2-TdB-Interpretación1.ipynb
@@ -160,3 +160,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/home/j3nnn1/itba/deepLCourse/lab-machine-learning/07_Lab02_santander/Regresion-Logistica
