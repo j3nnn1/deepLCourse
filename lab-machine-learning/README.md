@@ -26,3 +26,10 @@ https://scikit-learn.org/stable/modules/lda_qda.html (100%)
 @TODO hacer colab de regresion logistica y keras: https://dl-itba.croma.ai/courses/course-v1:itba-deeplearning+labmach+2021-T1/courseware/73f3dab09f1346d49e2aa9e7635d95ac/722f8b0a71374bf6a87a8cf2d65fab64/?activate_block_id=block-v1%3Aitba-deeplearning%2Blabmach%2B2021-T1%2Btype%40sequential%2Bblock%40722f8b0a71374bf6a87a8cf2d65fab64
 @TODO tutoria archivo not found en file https://colab.research.google.com/github/lab-ml-itba/Regresion-Logistica/blob/master/0%20-%20RL%20-%20Teor%C3%ADa.ipynb#scrollTo=ILsM6ytB8Z-O
 https://raw.githubusercontent.com/rn-2019-itba/Clase-4---LDA---QDA---RL---DT---RF/master/data/alturas-pesos-mils-train.csv
+
+# 
+RC - arboles.
+dataset iris:
+https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952
+https://github.com/mGalarnyk/Python_Tutorials/blob/master/Sklearn/CART/Dt_Classification/ClassificationTreeAnatomy.ipynb
+https://github.com/mGalarnyk/Python_Tutorials/blob/master/Sklearn/CART/Dt_Classification/ClassificationTreesUsingPython.ipynb
